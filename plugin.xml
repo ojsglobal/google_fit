@@ -28,7 +28,7 @@
    <!-- <framework src="com.google.android.gms:play-services:7.5.0+" />!-->
 
  <framework src="com.google.android.gms:play-services-fitness:8.4.0" />
- <framework src="com.google.android.gms:play-services-wearable:8.4.0" />
+<!-- <framework src="com.google.android.gms:play-services-wearable:8.4.0" />!-->
   
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="GoogleFit">
