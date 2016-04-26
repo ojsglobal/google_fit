@@ -16,7 +16,7 @@
       "type": "git",
       "url": "https://github.com/ojsglobal/google_fit"
     },
-    "author": "Carmelo Velardo",
+    "author": "Oscar Schwartzer",
     "engines": [
         {
             "name": "cordova",
